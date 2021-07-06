@@ -1,0 +1,29 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: none;
+}
+.skip-section{
+    display: flex;
+    margin: none;
+    /* background-image: url(images/top-banner.png); */
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+.half-wide{
+    margin-left: 11%;
+    margin-top: 5%;
+}
+#orange-coloring{
+    color: orangered;
+}
+.link-button{
+    text-decoration: none;
+    /* background-image: linear-gradient(to right, #00dbdb 0%, #00bdbd 25%, #009e9e 50%, #00e0e0 75%, #00c2c2 100%); */
+    background-image: linear-gradient(to right, #ffc861 0%, #ffbf47 25%, #ffb62e 75%, #ffad14 100%);
+    padding: 10px 20px;
+    font-weight: 400;
+    color: whitesmoke;
+    border-radius: 20px;
+}
